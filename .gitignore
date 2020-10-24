@@ -11,3 +11,9 @@ web-build/
 
 # macOS
 .DS_Store
+
+# expoignore
+.expo-shared/
+
+# VS code 
+.vscode/
